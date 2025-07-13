@@ -1,0 +1,9 @@
+{
+  "allure": {
+    "directory": "allure-results",
+    "links": [
+      { "type": "issue", "url": "http://adactinhotel.com/{}" },
+      { "type": "tms", "url": "http://tms.example.com/{}" }
+    ]
+  }
+}
